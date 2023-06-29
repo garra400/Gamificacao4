@@ -1,0 +1,15 @@
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\bin\Debug\net7.0\gamificacao2.exe
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\bin\Debug\net7.0\gamificacao2.deps.json
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\bin\Debug\net7.0\gamificacao2.runtimeconfig.json
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\bin\Debug\net7.0\gamificacao2.dll
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\bin\Debug\net7.0\gamificacao2.pdb
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\obj\Debug\net7.0\gamificacao2.csproj.AssemblyReference.cache
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\obj\Debug\net7.0\gamificacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\obj\Debug\net7.0\gamificacao2.AssemblyInfoInputs.cache
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\obj\Debug\net7.0\gamificacao2.AssemblyInfo.cs
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\obj\Debug\net7.0\gamificacao2.csproj.CoreCompileInputs.cache
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\obj\Debug\net7.0\gamificacao2.dll
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\obj\Debug\net7.0\refint\gamificacao2.dll
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\obj\Debug\net7.0\gamificacao2.pdb
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\obj\Debug\net7.0\gamificacao2.genruntimeconfig.cache
+C:\Users\Garra-PC\programas\gamificacao2\gamificacao2\obj\Debug\net7.0\ref\gamificacao2.dll
